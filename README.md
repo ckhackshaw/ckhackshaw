@@ -13,7 +13,6 @@ Writes code and authors articles at [@playfulprogramming](https://github.com/pla
 ---
 
 ### 🛠️ Tech Stack
-`React` • `Next.js` • `Flask` • `GraphQL` • `Docker` • `Python` • `TypeScript`
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -35,13 +34,13 @@ Clean architecture, thoughtful UX, and writing code that helps other developers 
 ---
 
 ### 📊 GitHub Stats
-![Courtney's GitHub stats](https://github-readme-stats.vercel.app/api?username=courtneyhackshaw&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=courtneyhackshaw&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![Courtney's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckhackshaw&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ckhackshaw&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 ---
 
 ### 💬 Connect
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/courtneyhackshaw)
+[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/ckhackshaw)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)
