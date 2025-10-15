@@ -5,6 +5,14 @@ Writes code and authors articles at [@playfulprogramming](https://github.com/pla
 
 ---
 
+### 💼 About Me
+Experienced Front-End Developer with 7+ years of experience leading development across startups and enterprise environments.  
+Strong expertise in React, TypeScript, Redux, and testing frameworks like Jest and Cypress.  
+Key achievements include building automation platforms that saved thousands of man-hours, contributing to open-source projects used globally, and supporting a startup through acquisition.  
+I care deeply about code quality, developer productivity, and balancing UX with performance in every product I build.
+
+---
+
 ### 🚀 What I'm Working On
 - **Job Helper App** – AI-powered job search & CV generation platform  
 - **Original Flava Platform** – Mobile app, CMS, and web app infrastructure for a growing food brand 
