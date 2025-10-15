@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Courtney Hackshaw
-
-## Hi there 👋
+## Hi, I'm Courtney Hackshaw
 
 🧠 Building thoughtful developer tools and full-stack apps with React, Flask, and GraphQL.  
 Writes code and authors articles at [@playfulprogramming](https://github.com/playfulprogramming) ✨
