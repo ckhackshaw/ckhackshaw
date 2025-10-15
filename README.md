@@ -32,11 +32,12 @@ Writes code and authors articles at [@playfulprogramming](https://github.com/pla
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+()
 
 ---
 
 ### 📚 Latest Articles
-- [CSS Specififcity](https://playfulprogramming.com/posts/css-specificity-explained)
+- [CSS Specificity](https://playfulprogramming.com/posts/css-specificity-explained)
 - [Python Microservices](https://playfulprogramming.com/posts/sharing-python-modules-across-microservices)
 
 ---
@@ -49,5 +50,6 @@ Writes code and authors articles at [@playfulprogramming](https://github.com/pla
 
 ### 💬 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/courtney-hackshaw)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/davinci784)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://playfulprogramming.com/people/ckhackshaw)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/courtneyhackshaw)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/davinci784)
