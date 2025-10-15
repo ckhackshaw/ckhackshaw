@@ -10,11 +10,11 @@ Key achievements:
 - Supporting a startup through acquisition
 - Led development of internal platforms at a financial firm, streamlining service delivery and reducing turnaround times.
 - Built secure, maintainable APIs with NodeJS, Flask, Laravel, Slim & GraphQL
-- Crafted responsive front-ends with React, Redux, and Tailwind.
+- Crafted responsive front-ends with React, Redux, Tailwind, Radix UI & Shadcn.
 
 I care deeply about code quality, developer productivity, and balancing UX with performance in every product I build.
-Known for bridging technical and non-technical teams, driving demos with C-suite, and mentoring devs on testing, architecture, and UI/UX best practices.
-Writes code and authors articles at [@playfulprogramming](https://github.com/playfulprogramming) ✨   
+Known for bridging technical and non-technical teams, leading demos with C-suite, and mentoring junior developers on testing, architecture, and UI/UX best practices.
+Writes code and authors articles at [@playfulprogramming](https://github.com/playfulprogramming) ✨
 
 ---
 
