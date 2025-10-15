@@ -1,15 +1,20 @@
-## Hi, I'm Courtney Hackshaw
-
-🧠 Building thoughtful developer tools and full-stack apps with React, Flask, and GraphQL.  
-Writes code and authors articles at [@playfulprogramming](https://github.com/playfulprogramming) ✨
-
----
+## 👋 Hi, I'm Courtney Hackshaw
 
 ### 💼 About Me
-Experienced Front-End Developer with 7+ years of experience leading development across startups and enterprise environments.  
+🧠 Experienced Full-Stack Developer with 7+ years of experience leading development across startups and enterprise environments across fintech, education, and creative industries.  
 Strong expertise in React, TypeScript, Redux, and testing frameworks like Jest and Cypress.  
-Key achievements include building automation platforms that saved thousands of man-hours, contributing to open-source projects used globally, and supporting a startup through acquisition.  
+
+Key achievements: 
+- Building automation platforms that saved thousands of man-hours
+- Contributing to open-source projects used globally
+- Supporting a startup through acquisition
+- Led development of internal platforms at a financial firm, streamlining service delivery and reducing turnaround times.
+- Built secure, maintainable APIs with NodeJS, Flask, Laravel, Slim & GraphQL
+- Crafted responsive front-ends with React, Redux, and Tailwind.
+
 I care deeply about code quality, developer productivity, and balancing UX with performance in every product I build.
+Known for bridging technical and non-technical teams, driving demos with C-suite, and mentoring devs on testing, architecture, and UI/UX best practices.
+Writes code and authors articles at [@playfulprogramming](https://github.com/playfulprogramming) ✨   
 
 ---
 
