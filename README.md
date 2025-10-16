@@ -48,9 +48,8 @@ Writes code and authors articles at [@playfulprogramming](https://github.com/pla
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-000000?style=for-the-badge&logo=phpunit&logoColor=white)
 
-**Mobile App:**  
+**Mobile:**  
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **Back-End:**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
